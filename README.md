@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yunzhe Zheng, a junior student at NYU Shanghai majoring in Mathematics
+- 👋 Hi, I’m Yunzhe Zheng, a senior student at NYU Shanghai majoring in Mathematics
 - 👀 I’m interested in Mathematics and Computer Science.
 - 📫 You can reach me via yz9163@nyu.edu (university mail, regularly checked)
 - 😄 Pronouns: He/His/Him/Himself
